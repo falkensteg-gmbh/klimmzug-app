@@ -19,7 +19,7 @@ def serialize_participant(participant):
     return participant
 
 # Routes
-@app.route('/api/participant', methods=['POST'])
+@app.route('/participant', methods=['POST'])
 def create_participant():
     """Create a new participant."""
     data = request.json
@@ -37,7 +37,7 @@ def create_participant():
     participant_id = participants.insert_one(data).inserted_id
     return jsonify({"id": str(participant_id)}), 201
 
-@app.route('/api/participant/<participant_id>', methods=['DELETE'])
+@app.route('/participant/<participant_id>', methods=['DELETE'])
 def delete_participant(participant_id):
     """Delete a participant by ID."""
     result = participants.delete_one({"_id": ObjectId(participant_id)})
@@ -45,7 +45,7 @@ def delete_participant(participant_id):
         return jsonify({"error": "Participant not found"}), 404
     return jsonify({"message": "Participant deleted"}), 200
 
-@app.route('/api/participant/<participant_id>', methods=['PUT'])
+@app.route('/participant/<participant_id>', methods=['PUT'])
 def update_participant(participant_id):
     """Update a participant by ID."""
     data = request.json
@@ -57,7 +57,7 @@ def update_participant(participant_id):
         return jsonify({"error": "Participant not found"}), 404
     return jsonify({"message": "Participant updated"}), 200
 
-@app.route('/api/participants', methods=['GET'])
+@app.route('/participants', methods=['GET'])
 def list_participants():
     """List participants with pagination, search, and optional gender filter."""
     page = int(request.args.get("page", 0))
@@ -78,7 +78,7 @@ def list_participants():
     
     return jsonify(participants_list), 200
 
-@app.route('/api/participant/<participant_id>/time', methods=['POST'])
+@app.route('/participant/<participant_id>/time', methods=['POST'])
 def record_time(participant_id):
     """Record time for a participant."""
     time = request.json.get("time")
