@@ -1,0 +1,6 @@
+streamlit
+pymongo
+flask
+requests
+streamlit-autorefresh
+streamlit_drawable_canvas
