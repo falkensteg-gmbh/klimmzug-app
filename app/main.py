@@ -7,8 +7,18 @@ from streamlit_drawable_canvas import st_canvas
 import base64
 from io import BytesIO
 from PIL import Image
+from streamlit_cookies_manager import EncryptedCookieManager
+
+# Define the password
+PASSWORD = "falkensteg2024"
 
 API_URL = "http://localhost:5000/api"
+
+# Initialize the cookie manager
+cookies = EncryptedCookieManager(prefix="my_app_", password="a_random_secret_key")
+
+if not cookies.ready():
+    st.stop()
 
 st.set_page_config(
     page_title="FalkenSteg Euromasters",
@@ -232,17 +242,19 @@ def ranking_ui():
         unsafe_allow_html=True
     )
 
-# Define the password
-PASSWORD = "your_password_here"
-
 def check_password():
     """Check if the password entered by the user is correct."""
     def password_entered():
         if st.session_state["password"] == PASSWORD:
             st.session_state["password_correct"] = True
+            cookies["password_correct"] = "true"
+            cookies.save()
             del st.session_state["password"]  # Remove the password from the session state for security
         else:
             st.session_state["password_correct"] = False
+
+    if "password_correct" in cookies and cookies["password_correct"] == "true":
+        st.session_state["password_correct"] = True
 
     if "password_correct" not in st.session_state:
         # First run, show input for password

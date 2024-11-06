@@ -4,3 +4,4 @@ flask
 requests
 streamlit-autorefresh
 streamlit_drawable_canvas
+streamlit_cookies_manager
