@@ -232,6 +232,30 @@ def ranking_ui():
         unsafe_allow_html=True
     )
 
+# Define the password
+PASSWORD = "your_password_here"
+
+def check_password():
+    """Check if the password entered by the user is correct."""
+    def password_entered():
+        if st.session_state["password"] == PASSWORD:
+            st.session_state["password_correct"] = True
+            del st.session_state["password"]  # Remove the password from the session state for security
+        else:
+            st.session_state["password_correct"] = False
+
+    if "password_correct" not in st.session_state:
+        # First run, show input for password
+        st.text_input("Password", type="password", on_change=password_entered, key="password")
+        return False
+    elif not st.session_state["password_correct"]:
+        # Password not correct, show input + error
+        st.text_input("Password", type="password", on_change=password_entered, key="password")
+        st.error("Password incorrect")
+        return False
+    else:
+        # Password correct
+        return True
 
 if __name__ == "__main__":
     st.sidebar.title("Navigation")
@@ -240,6 +264,7 @@ if __name__ == "__main__":
     if app_mode == "Add Participant":
         add_participant_ui()
     elif app_mode == "Main Screen":
-        main_screen()
+        if check_password():
+            main_screen()
     elif app_mode == "Ranking":
         ranking_ui()
