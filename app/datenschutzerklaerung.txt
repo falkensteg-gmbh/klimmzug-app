@@ -1,0 +1,234 @@
+## 1. GEGENSTAND UND GELTUNGSBEREICH 
+
+In dieser Datenschutzerklärung wird darüber informiert, welche personenbezogenen Daten bei einzelnen Verarbeitungsvorgängen erhoben und wie und zu welchen Zwecken diese personenbezogenen Daten verarbeitet werden. 
+
+Diese Datenschutzerklärung informiert über die Datenverarbeitung beim Besuch der Website, aber auch in anderen Zusammenhängen, z.B. über die Verarbeitung der Daten von Kunden, von Bewerbern und bei der Teilnahme an Videokonferenzen. 
+
+Ihre personenbezogenen Daten werden stets entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung verarbeitet.
+
+## 2. VERANTWORTLICHER UND DATENSCHUTZBEAUFTRAGTER 
+
+Verantwortlicher ist die Falkensteg Holding GmbH & Co. KG, Peter-Müller-Straße 10, 40468 Düsseldorf, Deutschland, Tel. +49 (0)211 5476630, E-Mail: falkensteg@falkensteg.com (nachfolgend „FalkenSteg“).  
+
+FalkenSteg ist eine Unternehmensgruppe mit diversen gruppenzugehörigen Gesellschaften. Bei einzelnen Verarbeitungsvorgängen ist die jeweilige Gruppengesellschaft Verantwortlicher, wenn der jeweilige Verarbeitungsvorgang nicht zentral für die ganze Unternehmensgruppe von einem Verantwortlichen durchgeführt wird, sondern wenn die Datenverarbeitung jeweils lokal für das jeweilige Gruppenunternehmen erfolgt. Dies ist beispielsweise bei Bewerbungen der Fall. 
+
+Der Datenschutzbeauftragte des jeweiligen Verantwortlichen kann unter schmoll@lucid-compliance.com kontaktiert werden. 
+
+## 3. BESUCH DER WEBSITE 
+
+### 3.1. Hosting und Logfiles 
+
+Die Website wird von einem Dienstleister auf Basis einer Auftragsverarbeitungsvereinbarung in der EU gehostet. 
+
+Bei jedem Aufruf der Website erfasst das System automatisiert Daten und Informationen vom Computersystem des aufrufenden Endgeräts. Folgende Daten werden dabei protokolliert bzw. geloggt: 
+
+- IP-Adresse des aufrufenden Endgeräts 
+- Betriebssystem des aufrufenden Endgeräts 
+- Browser-Version des aufrufenden Endgeräts 
+- Name der abgerufenen Datei bzw. Webseite 
+- Datum und Uhrzeit des Abrufs 
+- Übertragene Datenmenge 
+- Verweisende URL 
+
+Diese Daten werden verarbeitet, um die Website darstellen zu können, um die Sicherheit, Verfügbarkeit und Integrität der Website zu gewährleisten (z.B. Erkennung und Abwehr von DoS-Angriffen oder Zugriffen von Bots), um die Qualität und Darstellung der Website zu verbessern, um Fehler identifizieren und beheben zu können und für statistische Zwecke. Diese Daten werden regelmäßig nach wenigen Tagen wieder gelöscht. 
+
+Rechtsgrundlage für diese Datenverarbeitung ist das berechtigte Interesse des Verantwortlichen an den oben genannten Zwecken. 
+
+### 3.2. Webanalyse (Plausible) 
+
+Auf der Website wird der Webanalysedienst Plausible des Anbieters Plausible Insights OÜ in Estland verwendet. Der Anbieter wird als Auftragsverarbeiter auf Basis einer Auftragsverarbeitungsvereinbarung tätig. 
+
+Um besser zu verstehen, wie die Besucher der Website die Website nutzen und um die Website und die angebotenen Inhalte und Services kontinuierlich verbessern zu können, wird die Nutzung der Website statistisch ausgewertet. Die dabei erhobenen Daten werden verwendet, um aggregierte Nutzungsberichte zu erstellen. 
+
+Bei der Nutzung des Webanalysedienstes Plausible werden folgende Daten erhoben: 
+
+- IP-Adresse des aufrufenden Systems des Nutzers, 
+- die aufgerufene Website und die aufgerufenen Unterseiten, 
+- die Internetseite, von der der Nutzer auf die aufgerufene Internetseite gelangt ist (Referrer), 
+- die Verweildauer auf der Website, 
+- Die Häufigkeit des Aufrufs der Internetseite 
+
+Plausible setzt kein Cookie, sondern verwendet ein sogenanntes Device-Fingerprinting-Verfahren. Im Device Fingerprint-Verfahren werden folgende Informationen gespeichert: Browsersprache, Betriebssystem, genutzter Browser, Browser-Plugins. 
+
+Die erhobenen Daten werden für 24 Stunden gehasht gespeichert, um den Besucher der Website beim nächsten Besuch wieder als einzigartigen („unique“) Besucher erkennen zu können. 
+
+Rechtsgrundlage für diese Datenverarbeitung ist das berechtigte Interesse des Verantwortlichen an einer statistischen Auswertung des Nutzerverhaltens, um die Website und die angebotenen Inhalte und Services kontinuierlich verbessern zu können. Sofern eine Einwilligung eingeholt wurde, stellt die ausdrücklich erteilte und jederzeit widerrufbare Einwilligung die Rechtsgrundlage dar. 
+
+## 4. KONTAKTAUFNAHME UND KONTAKTDATENBANK (CRM) 
+
+Treten Sie mit uns in Kontakt, z.B. per E-Mail oder über ein Kontaktformular, werden die von Ihnen gemachten Angaben zum Zwecke der Bearbeitung der Anfrage verarbeitet. 
+
+Die in einem Kontaktformular abgefragten Angaben benötigen wir, um Ihre Anfrage zu bearbeiten, Sie korrekt anzusprechen und Ihnen eine Antwort zukommen zu lassen. 
+
+Wir verarbeiten die Daten unserer Kunden, Dienstleister und Lieferanten im Rahmen der Erbringung unserer vertraglichen Leistungen. Hierbei werden gegebenenfalls Bestandsdaten (beispielsweise Name und Vorname des/der Ansprechpartner(s), Adresse), Kontaktdaten (beispielsweise E-Mail-Adresse, Telefonnummer), Vertragsdaten (beispielsweise Vertragsgegenstand, Laufzeit), Zahlungsdaten und Daten, die im Rahmen der Leistungserbringung erhoben werden und/oder zur Leistungserbringung erforderlich sind, verarbeitet. 
+
+Anfragen und Kundenbeziehungen werden regelmäßig in unserem CRM-System verarbeitet. Die dabei verarbeiteten Daten (Name, Vorname, Anrede, Postadresse, ggf. Geburtsdatum, Ihr spezifisches Interesse hinsichtlich unserer Produkte und Dienstleistungen und Ihre Interaktionen mit uns) können von uns zudem unter Einhaltung der gesetzlichen Vorgaben zu Zwecken des Direktmarketings, insbesondere für postalische Werbung, verwendet werden. 
+
+Rechtsgrundlage für diese Datenverarbeitung ist das berechtigte Interesse des Verantwortlichen an der Kommunikation mit Kunden, Dienstleistern, Lieferanten, Interessenten, Besuchern der Website und sonstigen Dritten, an der Pflege von Interessenten-, Kunden- und Dienstleisterbeziehungen und der Vermarktung der Produkte und Dienstleistungen. Zielt die Kontaktaufnahme auf den Abschluss eines Vertrages ab oder erfolgt sie im Rahmen der Durchführung eines Vertrages, so ist die Rechtsgrundlage für die Verarbeitung die Vertragserfüllung bzw. die Durchführung vorvertraglicher Maßnahmen. 
+
+## 5. SOCIAL MEDIA 
+
+### 5.1. Social Media Buttons 
+
+Auf unserer Website sind Social Media-Buttons verschiedener Social Media-Netzwerke (z.B. Linkedin und Xing) eingebunden. 
+
+Klicken Sie einen dieser Social Media-Buttons an, werden Sie auf unsere Pages bei dem jeweiligen Social Media-Netzwerk weitergeleitet. Der Anbieter des jeweiligen Social Media-Netzwerkes erhält in diesem Fall die Information, dass Ihr Browser die entsprechende Seite unserer Website aufgerufen hat, auch wenn Sie kein Profil bei dem jeweiligen Social Media-Netzwerk besitzen oder nicht dort eingeloggt sind. Diese Information (einschließlich Ihrer IP-Adresse) wird von Ihrem Browser direkt an einen Server des jeweiligen Anbieters übermittelt. Wenn Sie einen Social Media-Button anklicken und entweder bei dem jeweiligen Social Media-Netzwerk eingeloggt sind oder sich dann auf der Seite des jeweiligen Social Media-Netzwerks einloggen, können die übermittelten Informationen ihrem Account bei dem Social Media-Netzwerk zugeordnet werden. 
+
+Informationen zum Zweck und Umfang der Datenerhebung und -verarbeitung durch die Anbieter des jeweiligen Social Media-Netzwerks, die Anbieterkennzeichnung, eine Kontaktmöglichkeit und Ihre Rechte und Einstellungsmöglichkeiten zum Datenschutz entnehmen Sie bitte den jeweiligen Datenschutzinformationen der Anbieter der Social Media-Netzwerke. 
+
+### 5.2. Social Media-Pages 
+
+Wir unterhalten ein öffentlich zugängliches Profil bei verschiedenen Social Media-Netzwerken Netzwerke (z.B. Linkedin und Xing). 
+
+Wenn Sie unsere Social Media-Pages besuchen und bei dem jeweiligen Social Media-Netzwerk eingeloggt sind, kann der Anbieter des jeweiligen Social Media-Netzwerks Ihr Nutzungsverhalten analysieren und die dabei erhobenen Informationen Ihrem Account bei dem Social Media-Netzwerk zuordnen und diese dort anreichern. Auch wenn Sie nicht eingeloggt sind oder wenn Sie gar keinen Account bei dem jeweiligen Social Media-Netzwerk haben, können Daten zu Ihrer Person von dem Anbieter des jeweiligen Social Media-Netzwerks erhoben werden, beispielsweise Ihre IP-Adresse oder Daten, die über ein Cookie erhoben werden. 
+
+Die Betreiber der Social Media-Netzwerke können anhand dieser Daten Nutzerprofile erstellen. Anhand Ihres Nutzerprofils können Ihnen dann sowohl auf den Websites des Social Media-Netzwerks als auch auf anderen Websites interessenbasierte Werbeanzeigen angezeigt werden. 
+
+Wenn Sie eine unserer Social Media-Pages besuchen, sind wir gemeinsam mit dem Anbieter des Social Media-Netzwerks verantwortlich für die dort stattfindende Erhebung und Verarbeitung Ihrer personenbezogenen Daten. Hinsichtlich der Information über die dort stattfindende Erhebung und Verarbeitung Ihrer personenbezogenen Daten verweisen wir Sie auf die Datenschutzinformationen des jeweiligen Social Media-Netzwerks. 
+
+Ihre Betroffenenrechte gemäß Kapitel III. der DSGVO (Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit etc.) können Sie sowohl gegenüber uns als auch gegenüber dem Anbieter des jeweiligen Social Media-Netzwerks geltend machen. Wir weisen in diesem Zusammenhang darauf hin, dass wir die Verarbeitung personenbezogener Daten und die Umsetzung der Betroffenenrechte im Rahmen unserer Social Media-Pages nur im Rahmen der uns von dem jeweiligen Anbieter zur Verfügung gestellten Möglichkeiten beeinflussen können. 
+
+Rechtsgrundlage für unsere Nutzung von Social Media-Pages ist Art. 6 Abs. 1 lit. f) DSGVO. Unser überwiegendes berechtigtes Interesse ist die Präsenz und Vermarktung unserer Produkte und Dienstleistungen im Internet. 
+
+## 6. ONLINEMEETINGS UND WEBINARE 
+
+Bei der Teilnahme an einem Onlinemeeting oder einem Webinar, das vom Verantwortlichen angeboten bzw. durchgeführt wird, werden personenbezogene Daten der Teilnehmenden verarbeitet. 
+
+Bei der Teilnahme an einem Onlinemeeting oder einem Webinar werden verschiedene Datenkategorien verarbeitet. Der Umfang der Daten hängt dabei auch davon ab, welche Daten die Teilnehmenden zu ihrer Person und im Rahmen der Teilnahme angeben. 
+
+Bei der Teilnahme an einem Onlinemeeting oder einem Webinar muss bei der Anmeldung regelmäßig zumindest ein Name angeben werden. Es kann dabei aber auch ein Pseudonym verwendet werden. Es wird zudem die IP-Adresse der Teilnehmenden verarbeitet, um die Teilnahme zu ermöglichen. Es werden zudem Informationen zum Login und Geräte-/Hardwareinformationen verarbeitet. Des Weiteren werden, sofern angegeben, E-Mail-Adresse und Profilbild der Teilnehmenden verarbeitet. Bei einer telefonischen Teilnahme werden, wenn übermittelt, die Telefonnummer und gegebenenfalls die IP-Adresse verarbeitet. 
+
+Bei der Teilnahme einem Onlinemeeting oder einem Webinar werden, sofern die/der Teilnehmende das Mikrofon und/oder eine Kamera des Endgeräts aktiviert hat, im Rahmen der Teilnahme Bild- und Tondaten der/des Teilnehmenden verarbeitet. Falls der Bildschirm geteilt wird, werden zudem die Informationen aus diesem Screenshare verarbeitet. Die Aktivierung von Mikrofon, Kamera oder Screenshare steht den Teilnehmenden frei. 
+
+Es können Audio- und Videoaufzeichnungen der Onlinemeetings oder Webinare erstellt werden. In diesem Fall werden die Daten aller Audio-, Video- und Präsentationsaufnahmen verarbeitet. Es erfolgt stets ein Hinweis auf die Aufzeichnung, sofern eine solche erfolgt und es wird, sofern erforderlich, stets die ausdrückliche Einwilligung der Teilnehmenden in die Aufzeichnung eingeholt. 
+
+Es besteht zudem die Möglichkeit, in Onlinemeetings oder Webinaren die Chat-, Fragen- oder Umfragefunktionen zu nutzen. Insoweit werden die von den Teilnehmenden gemachten Texteingaben verarbeitet, um diese in dem jeweiligen Onlinemeeting oder Webinar anzuzeigen und ggf. zu protokollieren. 
+
+Für die Durchführung und gegebenenfalls Aufzeichnung von Onlinemeetings und Webinaren wird ein externer Dienstleister als Auftragsverarbeiter eingesetzt. 
+
+Es kann hierbei eine Übermittlung personenbezogener Daten in Drittländer erfolgen, die kein angemessenes Datenschutzniveau bieten. In diesem Fall wird gewährleistet, dass für eine solche Übermittlung geeignete Garantien vorgesehen sind, um ein angemessenes Datenschutzniveau zu gewährleisten. Ein Nachweis dieser geeigneten Garantien stellt der Verantwortliche auf Anfrage zur Verfügung. 
+
+Rechtsgrundlage für diese Verarbeitung ist die Vertragserfüllung bzw. die Durchführung vorvertraglicher Maßnahmen, sofern die Durchführung und Teilnahme an dem Onlinemeeting oder Webinar im Rahmen eines bestehenden Vertragsverhältnisses zur Vertragserfüllung erforderlich ist oder auf den Abschluss eines Vertrages abzielt. Dies ist regelmäßig der Fall bei Mitarbeitenden, Kunden, Interessenten und Dienstleistern und Lieferanten. Andernfalls ist die Rechtsgrundlage für die Verarbeitung das berechtigte Interesse des Verantwortlichen an einer effizienten Kommunikation, sowohl intern wie auch mit externen Stakeholdern. 
+
+
+## 7. BEWERBUNGEN 
+
+### 7.1. Active Sourcing 
+
+Wir führen sogenannte Active Sourcing-Maßnahmen durch, um vielversprechende potenzielle Mitarbeitende auf dem externen Arbeitsmarkt zu identifizieren und aktiv mit potenziellen Bewerberinnen und Bewerbern und Mitarbeitenden Kontakt aufzunehmen. Zweck der Datenverarbeitung ist die Personalbeschaffung, z.B. indem vielversprechende Kandidatinnen und Kandidaten auf Stellenangebote in unserem Unternehmen individuell hingewiesen werden. 
+
+Beim Active Sourcing erheben wir folgende Datenkategorien: Name, Vorname, Geschlecht, Kontaktdaten, Ausbildung, Berufserfahrung, Qualifikation, Gehaltsdaten, Bewerbungsdaten, außerberufliche Erfahrungen und Interessen und sonstige Informationen, die sich aus den öffentlichen Profilen bei sozialen Netzwerken, insbesondere LinkedIn und Xing, und/oder aus sonstigen öffentlich zugänglichen Quellen im Internet ergeben. 
+
+Sämtliche im Rahmen des Active Sourcing verarbeiteten personenbezogenen Daten werden aus allgemein/öffentlich zugänglichen Quellen aus dem Internet erhoben, insbesondere aus sozialen Netzwerken wie LinkedIn und Xing. 
+
+Rechtsgrundlage für die Erhebung und Verarbeitung der öffentlich zugänglichen Daten im Rahmen des Active Sourcing ist das berechtigte Interesse des Verantwortlichen an der Identifikation, Ansprache und Einstellung bestmöglicher Mitarbeitender für das Unternehmen. 
+
+### 7.2. Bewerbungsprozess 
+
+Wir erheben und verarbeiten personenbezogenen Daten von Bewerberinnen und Bewerbern zum Zwecke der Durchführung des Bewerbungsverfahrens. 
+
+Wenn wir mit einer Bewerberin bzw. einem Bewerber einen Arbeitsvertrag abschließen, werden die übermittelten Daten zur Durchführung des Beschäftigungsverhältnisses unter Beachtung der gesetzlichen Vorschriften verarbeitet. Wird kein Arbeitsvertrag abgeschlossen, werden die Bewerbungsunterlagen unverzüglich nach Beendigung des Bewerbungsverfahrens gelöscht, sofern einer Löschung kein überwiegendes berechtigtes Interesse, wie die Abwehr von Ansprüchen bzw. eine Beweissicherungsfunktion nach Gleichbehandlungs- und Antidiskriminierungsgesetzen entgegensteht. 
+
+Rechtsgrundlage für diese Speicherung und Verarbeitung ist die Durchführung vorvertraglicher Maßnahmen. 
+
+### 7.3. Talent Pool 
+
+Wenn eine Bewerberin bzw. ein Bewerber in eine längere Speicherung der Daten in unserem Talent Pool eingewilligt hat, werden wir die im Rahmen der Bewerbung übermittelten Daten in unserem Talent Pool für weitere 2 Jahre nach Beendigung des Bewerbungsverfahrens speichern, um zukünftige für die Bewerberin bzw. den Bewerber potenziell interessante Stellen zu identifizieren und die Bewerberin bzw. den Bewerber gegebenenfalls diesbezüglich zu kontaktieren. Nach Ablauf dieser Frist werden die Daten gelöscht. 
+
+Eine solche Einwilligung in die Speicherung der Bewerbungsdaten in unserem Bewerber-Pool kann jederzeit für die Zukunft widerrufen werden. Bitte senden Sie uns dazu eine E-Mail an die oben angegebenen Kontaktdaten. 
+
+Rechtsgrundlage für die Speicherung der Bewerbungsunterlagen in unserem Talent Pool ist gegebenenfalls die ausdrücklich erteilte und jederzeit widerrufbare Einwilligung der Bewerberin bzw. des Bewerbers. 
+
+### 7.4. Compliance-/Sanktionslisten-Screening 
+
+Bewerber, die im Rahmen des Bewerbungsverfahrens in die engere Auswahl kommen, können einer initialen Compliance-Prüfung unterzogen werden. Bei der Compliance-Prüfung erfolgt ein Abgleich des Namens und der Anschrift des Bewerbers mit relevanten Sanktionslisten, insbesondere auf Basis der Anti-Terror-Verordnungen der EU. 
+
+Für die Durchführung des Compliance-/Sanktionslisten-Screenings nutzen wir einen externen Dienstleister als Auftragsverarbeiter auf Basis einer Vereinbarung Auftragsverarbeitung. 
+
+Rechtsgrundlage für diese Speicherung und Verarbeitung ist, wenn eine gesetzliche Verpflichtung zur Durchführung eines Compliance-/Sanktionslisten-Screenings gegeben ist, die Erfüllung der gesetzlichen Verpflichtung. In Einzelfällen, abhängig von einer Interessenabwägung, kann ein Compliance-/Sanktionslisten-Screening auch erfolgen, wenn keine zwingende gesetzliche Verpflichtung gegeben ist. In diesem Fall ist Rechtsgrundlage unser berechtigtes Interesse an der Vermeidung einer potenziellen Sanktionierung durch ausländische Stellen. 
+
+## 8. VIDEOÜBERWACHUNG 
+
+Unsere Betriebsstätten werden zum Teil videoüberwacht. Auf diese Überwachung wird jeweils deutlich durch Hinweisschilder hingewiesen. Rechtsgrundlage für diese Speicherung und Verarbeitung ist Art. 6 Abs. 1 lit. f) DSGVO. Zweck der Videoüberwachung und unser berechtigtes Interesse ist die Wahrung des Hausrechts, der Schutz unserer Mitarbeiter vor Gefahrensituationen, der Schutz unseres Eigentums, namentlich unserer Betriebsstätte samt Einrichtung und die Beweissicherung nach Straftaten. Auf die Aufzeichnungen hat lediglich die Geschäftsführung Zugriff. In Einzelfällen kann, dem Zweck entsprechend, eine Weitergabe der Aufzeichnungen an Strafverfolgungsbehörden erfolgen. Die Löschung der Daten erfolgt systemseitig nach 7 Werktagen, sofern keine Vorfälle im Sinne unseres berechtigten Interesses vorliegen, die eine längere Speicherung erforderlich machen. 
+
+## 9. MERGERS AND ACQUISITIONS (M&A) 
+
+Wenn wir an einer Umstrukturierung, Akquisition, Veräußerung von Vermögenswerten, Fusion, Finanzierung, Übertragung von Dienstleistungen auf einen anderen Anbieter, Due-Diligence-Prüfung, Insolvenz oder Zwangsverwaltung beteiligt sind, können Ihre personenbezogenen Daten unter Wahrung der datenschutzrechtlichen Grundprinzipien im rechtlich zulässigen Umfang im Rahmen der Erforderlichkeit in Verbindung mit und als Teil des betreffenden rechtlichen Vorgangs an Dritte übermittelt werden. 
+
+## 10. ALTERSBESCHRÄNKUNG 
+
+Diese Website ist nicht für die Nutzung durch Kinder unter 16 Jahren bestimmt oder konzipiert. Wir erfassen nicht wissentlich personenbezogene Daten von oder über Personen unter 16 Jahren. 
+
+## 11. EMPFÄNGER VON DATEN 
+
+Innerhalb der Organisation des Verantwortlichen erhalten diejenigen internen Stellen bzw. Organisationseinheiten Zugriff auf Daten, die diese zur Erfüllung ihrer Aufgaben, gegebenenfalls zur Erfüllung von Verträgen, zur Datenverarbeitung auf Basis einer Einwilligung des/der Betroffenen oder zur Wahrung überwiegender berechtigter Interessen, benötigen. 
+
+Eine Weitergabe von Daten an Dritte erfolgt nur im Rahmen der gesetzlichen Vorgaben. Ihre Daten werden nur dann an Dritte weitergegeben, wenn dies für Vertragszwecke oder zur Wahrung unseres überwiegenden berechtigten Interesses an einer effektiven Durchführung unseres Geschäftsbetriebes. 
+
+Sofern wir im Rahmen der Bereitstellung der Website oder sonstiger Leistungen Dienstleister bzw. Drittanbieter einsetzen, ergreifen wir geeignete rechtliche Vorkehrungen sowie entsprechende technische und organisatorische Maßnahmen, um für den Schutz Ihrer personenbezogenen Daten zu sorgen. 
+
+## 12. BETROFFENENRECHTE 
+
+Im Rahmen der gesetzlichen Voraussetzungen bestehen hinsichtlich der Verarbeitung personenbezogener Daten für die jeweils Betroffenen die nachfolgend erläuterten Rechte: 
+
+### 12.1 Recht auf Auskunft 
+
+Betroffene haben das Recht, Auskunft über die zu ihrer Person verarbeiteten personenbezogenen Daten zu verlangen. 
+
+### 12.2. Recht auf Berichtigung 
+
+Betroffene haben das Recht, eine Berichtigung unrichtiger sie betreffender personenbezogenen Daten zu verlangen. Es besteht zudem das Recht, eine Vervollständigung unvollständiger personenbezogener Daten zu verlangen. 
+
+### 12.3. Recht auf Löschung 
+
+Betroffene haben das Recht, die Löschung sie betreffender personenbezogenen Daten zu verlangen. 
+
+### 12.4. Recht auf Einschränkung der Verarbeitung 
+
+Betroffene haben das Recht, eine Einschränkung der Verarbeitung sie betreffender personenbezogenen Daten zu verlangen. 
+
+### 12.5. Recht auf Widerspruch gegen die Verarbeitung 
+
+**Betroffene haben das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung sie betreffender personenbezogenen Daten, die für die Wahrnehmung einer Aufgabe erfolgt, die im öffentlichen Interesse liegt oder die in Ausübung öffentlicher Gewalt erfolgt, oder die auf Basis eines berechtigten Interesses erfolgt, Widerspruch einzulegen. Die Daten werden in diesem Fall nicht weiterverarbeitet, es sei denn, der Verantwortliche kann zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die die Interessen, Rechten und Freiheiten der/des Betroffenen überwiegen, oder wenn die Verarbeitung der Geltendmachung und Ausübung von oder der Verteidigung gegen Rechtsansprüche dient. 
+
+Außerdem steht Betroffenen das Recht zu, jederzeit Widerspruch gegen die Verarbeitung sie betreffender personenbezogener Daten zum Zwecke der Direktwerbung einzulegen; dies gilt auch für ein etwaiges Profiling, soweit es mit solcher Direktwerbung in Verbindung steht. **
+
+### 12.6. Recht auf Widerruf einer Einwilligung 
+
+Betroffene steht, soweit sie für eine Verarbeitung eine Einwilligung erteilt haben, ein Widerrufsrecht zu. 
+
+### 12.7. Recht auf Datenübertragbarkeit 
+
+Betroffene haben das Recht, die sie betreffenden personenbezogenen Daten, die sie einem Verantwortlichen bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten („Datenübertragbarkeit“) sowie das Recht auf Weiterübermittlung dieser Daten an einen anderen Verantwortlichen. 
+
+### 12.8. Ausübung der Rechte 
+
+Die Betroffenenrechte können durch Mitteilung an die oben genannten Kontaktdaten für den Verantwortlichen bzw. gegebenenfalls den Datenschutzbeauftragten geltend gemacht werden. 
+
+### 12.9. Recht auf Beschwerde bei den Datenschutzaufsichtsbehörden 
+
+Wenn Betroffene der Ansicht sind, dass die Verarbeitung sie betreffender personenbezogener Daten gegen Datenschutzrecht verstößt, haben sie das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren. 
+
+## 13. PFLICHTANGABEN UND PROFILING 
+
+Die Bereitstellung personenbezogener Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Es besteht keine Verpflichtung, personenbezogene Daten bereitzustellen, allerdings ist die Angabe personenbezogener Informationen für einen Vertragsabschluss insofern erforderlich, als bestimmte Angaben zwingend erforderlich sind, um einen Vertrag abschließen (und durchführen) zu können. 
+
+Eine automatisierte Entscheidungsfindung einschließlich eines Profiling wird nicht durchgeführt. 
+
+## 14. SPEICHERUNG/AUFBEWAHRUNG UND LÖSCHUNG 
+
+Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit und speichern Ihre personenbezogenen Daten nur so lange, wie dies zur Erreichung des jeweiligen Zwecks der Datenverarbeitung erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen Speicherfristen vorsehen. Entfällt der Speicherungszweck oder läuft eine vom Gesetzgeber vorgesehene Speicherfrist ab, werden die personenbezogenen Daten routinemäßig und entsprechend den gesetzlichen Vorschriften anonymisiert oder gelöscht. 
+
+## 15. INFORMATIONSSICHERHEIT 
+
+Wir treffen dem Stand der Technik entsprechende angemessene technische und organisatorische Maßnahmen, um ein dem Risiko der jeweiligen Verarbeitung angemessenes Schutzniveau für die von uns verarbeiteten personenbezogenen Daten zu gewährleisten und um die durch uns verarbeiteten Daten gegen zufällige oder vorsätzliche Manipulationen, Verlust, Zerstörung oder gegen den Zugriff unberechtigter Personen zu schützen. 
+
+Unsere Website nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen, Anfragen oder Zahlungsdaten, die Sie an uns senden, eine SSL-Verschlüsselung. 
+
+Unsere Mitarbeitenden werden regelmäßig zu Datenschutz und Informationssicherheit geschult und sind auf Vertraulichkeit und Datenschutz verpflichtet. 
+
+Im Rahmen eines restriktiven Rechte- und Rollenkonzepts auf „need to know“-Basis ist sichergestellt, dass die Mitarbeitenden nur jeweils auf die personenbezogenen Daten Zugriff haben, die sie für die Erfüllung ihrer Aufgaben unbedingt benötigen. 
+
+## 16. ÄNDERUNG DER DATENSCHUTZERKLÄRUNG 
+
+Wir behalten uns vor, diese Datenschutzerklärung gelegentlich anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht und/oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z. B. bei der Einführung neuer Services. Für den Besuch der Website bzw. die Inanspruchnahme unserer Services gilt stets die jeweils aktuelle Datenschutzerklärung. 
