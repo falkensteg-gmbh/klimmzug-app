@@ -98,7 +98,7 @@ def add_participant_ui():
         if st.button("Akzeptieren"):
             if not accept_policy:
                 st.error("You must accept the data privacy policy.")
-            elif canvas_result.image_data is None:
+            elif canvas_result.image_data is None or not canvas_result.image_data.any():
                 st.error("You must provide a signature.")
             else:
                 # Convert the image to base64
