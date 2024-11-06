@@ -9,17 +9,6 @@ from io import BytesIO
 from PIL import Image
 from streamlit_cookies_manager import EncryptedCookieManager
 
-# Define the password
-PASSWORD = "falkensteg2024"
-
-API_URL = "http://localhost:5000/api"
-
-# Initialize the cookie manager
-cookies = EncryptedCookieManager(prefix="my_app_", password="a_random_secret_key")
-
-if not cookies.ready():
-    st.stop()
-
 st.set_page_config(
     page_title="FalkenSteg Euromasters",
     #page_icon="🧊",
@@ -31,6 +20,17 @@ st.set_page_config(
     #    'About': "# This is a header. This is an *extremely* cool app!"
     #}
 )
+
+# Define the password
+PASSWORD = "falkensteg2024"
+
+API_URL = "http://localhost:5000/api"
+
+# Initialize the cookie manager
+cookies = EncryptedCookieManager(prefix="my_app_", password="a_random_secret_key")
+
+if not cookies.ready():
+    st.stop()
 
 def format_time(seconds):
     minutes = int(seconds // 60)
