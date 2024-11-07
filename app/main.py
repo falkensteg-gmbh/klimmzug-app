@@ -23,7 +23,7 @@ st.set_page_config(
 )
 
 # Define the password
-PASSWORD = "falkensteg2024"
+PASSWORD = "fsem"
 
 API_URL = "http://localhost:5000/api"
 
