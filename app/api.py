@@ -60,8 +60,8 @@ def update_participant(participant_id):
 @app.route('/api/participants', methods=['GET'])
 def list_participants():
     """List participants with pagination, search, and optional gender filter."""
-    page = int(request.args.get("page", 0))
-    per_page = int(request.args.get("per_page", 20))
+    page = request.args.get("page")
+    per_page = request.args.get("per_page")
     search = request.args.get("search", "")
     gender = request.args.get("gender", None)
     
@@ -73,7 +73,15 @@ def list_participants():
     if gender:
         query["gender"] = gender
     
-    participants_list = list(participants.find(query).skip(page * per_page).limit(per_page))
+    if page is None and per_page is None:
+        # Return all participants if no pagination parameters are provided
+        participants_list = list(participants.find(query))
+    else:
+        # Apply pagination
+        page = int(page) if page is not None else 0
+        per_page = int(per_page) if per_page is not None else 20
+        participants_list = list(participants.find(query).skip(page * per_page).limit(per_page))
+    
     participants_list = [serialize_participant(p) for p in participants_list]
     
     return jsonify(participants_list), 200
