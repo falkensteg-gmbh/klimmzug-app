@@ -126,7 +126,7 @@ def export_participants_csv():
     
     # Write participant data
     for participant in participants_list:
-        si.write(f"{participant['_id']},{participant['first_name']},{participant['last_name']},{participant['gender']},{participant['email']},{participant['phone']},{participant.get('time', '')},{participant.get('timestamp', '')},{participant.get('signature', '')}\n")
+        si.write(f"{participant['_id']},{participant['first_name']},{participant['last_name']},{participant['gender']},{participant['email']},{participant['phone']},{participant.get('time', '')},{participant.get('timestamp', '')}\n")
     
     # Move to the beginning of the StringIO object
     si.seek(0)
