@@ -2,6 +2,8 @@ from flask import Flask, jsonify, request
 from pymongo import MongoClient
 from bson import ObjectId
 from datetime import datetime
+from flask import Response
+from io import StringIO
 import os
 
 # Flask app setup
@@ -98,6 +100,39 @@ def record_time(participant_id):
         return jsonify({"error": "Participant not found"}), 404
     
     return jsonify({"status": "success"}), 200
+
+@app.route('/api/participants/csv', methods=['GET'])
+def export_participants_csv():
+    """Export all participants data in CSV format."""
+    search = request.args.get("search", "")
+    gender = request.args.get("gender", None)
+    
+    query = {"$or": [
+        {"first_name": {"$regex": search, "$options": "i"}},
+        {"last_name": {"$regex": search, "$options": "i"}}
+    ]}
+    
+    if gender:
+        query["gender"] = gender
+    
+    participants_list = list(participants.find(query))
+    participants_list = [serialize_participant(p) for p in participants_list]
+    
+    # Create a CSV string in memory
+    si = StringIO()
+    
+    # Write CSV header
+    si.write("ID,First Name,Last Name,Gender,Email,Phone,Time,Timestamp,Signature\n")
+    
+    # Write participant data
+    for participant in participants_list:
+        si.write(f"{participant['_id']},{participant['first_name']},{participant['last_name']},{participant['gender']},{participant['email']},{participant['phone']},{participant.get('time', '')},{participant.get('timestamp', '')},{participant.get('signature', '')}\n")
+    
+    # Move to the beginning of the StringIO object
+    si.seek(0)
+    
+    # Return the CSV string as a plain text response
+    return Response(si.getvalue(), mimetype="text/plain")
 
 # Ensure app runs if file is executed directly
 if __name__ == "__main__":
